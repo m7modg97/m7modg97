@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud</h1>
-<h3 align="center">FullStach Developer</h3>
+<h3 align="center">FullStack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m7modg97&label=Profile%20views&color=0e75b6&style=flat" alt="m7modg97" /> </p>
 
